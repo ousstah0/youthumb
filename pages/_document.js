@@ -28,7 +28,7 @@ class MyDocument extends Document {
 
           glx_df74a97d3c2a1b33cf1d72cc08cdd7ab.txt
 
-// ... add adsense 
+
 
           <script
             data-ad-client="YOUR_ADSENSE_CODE_HERE"
