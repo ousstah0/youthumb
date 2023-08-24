@@ -30,7 +30,7 @@ class MyDocument extends Document {
         <body>
           <header style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "1rem", backgroundColor: "#fcfcfc", color: "#0a0a0a" }}>
             <h1 style={{ fontSize: "1.5rem" }}>Download Youtube Thumbnail</h1>
-            <a href="https://your-website-url.com/privacy-policy" style={{ color: "#0a0a0a", textDecoration: "none" }}>Privacy Policy</a>
+            <a href="https://sites.google.com/view/thumb-download/home" style={{ color: "#0a0a0a", textDecoration: "none" }}>Privacy Policy</a>
           </header>
           <Main />
           <NextScript />
