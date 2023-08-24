@@ -1,6 +1,7 @@
 import { useState } from "react";
 import copy from "copy-to-clipboard";
 
+
 const Index = () => {
   const [videoURL, setVideoURL] = useState("");
   const [thumbnailOptions, setThumbnailOptions] = useState([]);
@@ -83,23 +84,26 @@ const Index = () => {
 
 
       {/* Added Content */}
-      <div className="mt-8">
-        <h1 className="text-center mt-8">
+      
+      <h1>
+          _________________
+          </h1>
+      <div className="container mx-auto">
+        <h1>
           YouTube Thumbnail Downloader: Save YT Video Thumbnails in High Quality
         </h1>
-        <p>
+        <ol>
           Looking to enhance your YouTube video content with eye-catching thumbnails?
           Welcome to Youtube-thumb-downloader.com, your go-to source for free, high-quality thumbnail images from any YouTube video.
           Whether it's Full HD (1080p), HD (720p), SD, or smaller sizes, we've got you covered.
-        </p>
+        </ol>
         <h2 className="text-center mt-8">
-          Why Use Our YouTube Thumbnail Grabber Website?
-        </h2>
-        <p>
-          Our YouTube thumbnail downloader website serves a multitude of purposes.
-          From enriching presentations to aiding in animation work and various other activities,
-          our platform provides the convenience of accessing compelling thumbnails from any YouTube video.
-        </p>
+          Why Use Our YouTube Thumbnail Grabber Website?</h2>
+            <ol>
+              Our YouTube thumbnail downloader website serves a multitude of purposes.
+              From enriching presentations to aiding in animation work and various other activities,
+              our platform provides the convenience of accessing compelling thumbnails from any YouTube video.
+            </ol>
         <h2 className="text-xl font-semibold mb-4"> 
           How to Utilize Our YouTube Thumbnail Downloader Website?</h2>
             <p>
@@ -111,39 +115,39 @@ const Index = () => {
               <li>Instantly, a range of thumbnail sizes will be generated for you.</li>
               <li>Click the thumbnail download button, and your chosen image will be downloaded.</li>
             </ol>
-            <p>
+            <ol>
               It's that easy! Our user-friendly interface ensures a seamless experience for every user.
-            </p>
+            </ol>
             <h2 className="text-xl font-semibold mb-4">Is Downloading YouTube Thumbnails Legal?</h2>
-            <p>
+            <ol>
               Absolutely, it's legal to download YouTube video thumbnails.
               However, it's important to remember that both thumbnails and videos are copyrighted material.
               Prior permission from the content owner should be sought before reuse.
-            </p>
+            </ol>
             <h2 className="text-xl font-semibold mb-4">Compatibility Across Devices</h2>
-            <p>
+            <ol>
               Our YouTube thumbnail downloader website is compatible with various devices,
               including Android phones, laptops, desktop systems, and non-iPhone devices.
               For iPhone users, please note that images cannot be directly saved due to iOS limitations.
-            </p>
+            </ol>
             <h2 className="text-xl font-semibold mb-4">Copyright Considerations</h2>
-            <p>
+            <ol>
               Keep in mind that downloaded YouTube screenshots are copyrighted by the respective video owners.
               When reusing these thumbnails, especially within the YouTube ecosystem, proper permissions are advisable.
-            </p>
+            </ol>
             <h2 className="text-xl font-semibold mb-4">SEO Considerations for Reused Thumbnails</h2>
-            <p>
+            <ol>
               Reusing YouTube thumbnails may not be the most SEO-friendly option.
               Google indexes most thumbnails on YouTube, distinguishing between unique and duplicate images.
               However, you can enhance reused thumbnails with unique effects through tools like Photoshop,
               making them SEO-friendly again.
-            </p>
+            </ol>
             <h2 className="text-xl font-semibold mb-4">Enhance Your Video Content Today with Captivating Thumbnails!</h2>
-            <p>
+            <ol>
               Experience the difference that captivating YouTube thumbnails can make.
               Elevate your video marketing strategy with Youtube-thumb-downloader.com,
               your trusted source for high-quality thumbnails.
-            </p>
+            </ol>
       </div>
 
       {/* Footer */}

@@ -4,7 +4,11 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f7fafc;
+  
 }
+
+
+
 
 /* Center align the content in the container */
 .container {
@@ -21,11 +25,13 @@ input[type="text"] {
   border: 1px solid #ccc;
   border-radius: 4px;
   width: 100%;
+  
 }
 
 /* Add some spacing between input and button */
 input[type="text"] + button {
   margin-top: 0.5rem;
+  
 }
 
 /* Style the "Download Thumbnails" button */
