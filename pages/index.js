@@ -34,6 +34,7 @@ const Index = () => {
   };
 
   return (
+    
     <div className="container mx-auto px-4 py-8">
       <header className="text-center mb-8">
         <h1 className="text-3xl font-bold mb-2">
@@ -76,6 +77,81 @@ const Index = () => {
           </div>
         </div>
       )}
+
+
+
+
+
+      {/* Added Content */}
+      <div className="mt-8">
+        <h1 className="text-center mt-8">
+          YouTube Thumbnail Downloader: Save YT Video Thumbnails in High Quality
+        </h1>
+        <p>
+          Looking to enhance your YouTube video content with eye-catching thumbnails?
+          Welcome to Youtube-thumb-downloader.com, your go-to source for free, high-quality thumbnail images from any YouTube video.
+          Whether it's Full HD (1080p), HD (720p), SD, or smaller sizes, we've got you covered.
+        </p>
+        <h2 className="text-center mt-8">
+          Why Use Our YouTube Thumbnail Grabber Website?
+        </h2>
+        <p>
+          Our YouTube thumbnail downloader website serves a multitude of purposes.
+          From enriching presentations to aiding in animation work and various other activities,
+          our platform provides the convenience of accessing compelling thumbnails from any YouTube video.
+        </p>
+        <h2 className="text-xl font-semibold mb-4"> 
+          How to Utilize Our YouTube Thumbnail Downloader Website?</h2>
+            <p>
+              Using our platform is a breeze. Follow these simple steps:
+            </p>
+            <ol>
+              <li>Copy the URL of the YouTube video whose thumbnail you desire.</li>
+              <li>Paste the URL into the input box.</li>
+              <li>Instantly, a range of thumbnail sizes will be generated for you.</li>
+              <li>Click the thumbnail download button, and your chosen image will be downloaded.</li>
+            </ol>
+            <p>
+              It's that easy! Our user-friendly interface ensures a seamless experience for every user.
+            </p>
+            <h2 className="text-xl font-semibold mb-4">Is Downloading YouTube Thumbnails Legal?</h2>
+            <p>
+              Absolutely, it's legal to download YouTube video thumbnails.
+              However, it's important to remember that both thumbnails and videos are copyrighted material.
+              Prior permission from the content owner should be sought before reuse.
+            </p>
+            <h2 className="text-xl font-semibold mb-4">Compatibility Across Devices</h2>
+            <p>
+              Our YouTube thumbnail downloader website is compatible with various devices,
+              including Android phones, laptops, desktop systems, and non-iPhone devices.
+              For iPhone users, please note that images cannot be directly saved due to iOS limitations.
+            </p>
+            <h2 className="text-xl font-semibold mb-4">Copyright Considerations</h2>
+            <p>
+              Keep in mind that downloaded YouTube screenshots are copyrighted by the respective video owners.
+              When reusing these thumbnails, especially within the YouTube ecosystem, proper permissions are advisable.
+            </p>
+            <h2 className="text-xl font-semibold mb-4">SEO Considerations for Reused Thumbnails</h2>
+            <p>
+              Reusing YouTube thumbnails may not be the most SEO-friendly option.
+              Google indexes most thumbnails on YouTube, distinguishing between unique and duplicate images.
+              However, you can enhance reused thumbnails with unique effects through tools like Photoshop,
+              making them SEO-friendly again.
+            </p>
+            <h2 className="text-xl font-semibold mb-4">Enhance Your Video Content Today with Captivating Thumbnails!</h2>
+            <p>
+              Experience the difference that captivating YouTube thumbnails can make.
+              Elevate your video marketing strategy with Youtube-thumb-downloader.com,
+              your trusted source for high-quality thumbnails.
+            </p>
+      </div>
+
+      {/* Footer */}
+      <footer className="text-center mt-8">
+        <p className="text-gray-600">
+          Youtube-thumb-downloader.com - Copyright © 2023
+        </p>
+      </footer>
     </div>
   );
 };
