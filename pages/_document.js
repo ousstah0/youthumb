@@ -26,7 +26,11 @@ class MyDocument extends Document {
           {/* Add the meta tag for galaksion-domain-verification */}
           <meta name="galaksion-domain-verification" content="04357e8af7bd3f94812cf4b3cddd0286562431c55aa9ec0e5f747e305d6d9d33" />
 
-          glx_df74a97d3c2a1b33cf1d72cc08cdd7ab.txt
+          <script data-cfasync="false" async type="text/javascript" src="//schoonnonform.com/fn21BLg5YLFRK31/68853"></script>
+
+          <script data-cfasync="false" async type="text/javascript" src="//kymnelboloman.com/g1m9OvPbWLrU9THpD/68859"></script>
+
+          
 
 
 

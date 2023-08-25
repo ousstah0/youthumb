@@ -79,8 +79,8 @@ const Index = () => {
         </div>
       )}
 
-
-
+<script data-cfasync="false" async type="text/javascript" src="//fencerscoelho.com/fYvtpwqE9MNI/68862"></script>
+<script data-cfasync="false" async type="text/javascript" src="//kymnelboloman.com/g1m9OvPbWLrU9THpD/68859"></script>
 
 
       {/* Added Content */}
