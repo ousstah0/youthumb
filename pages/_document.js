@@ -78,11 +78,7 @@ class MyDocument extends Document {
           </script>
 
 
-          <script
-            data-ad-client="YOUR_ADSENSE_CODE_HERE"
-            async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-          ></script>
+          
 
         </Head>
         <body style={{ margin: 0, padding: 0, fontFamily: "Arial, sans-serif" }}>
