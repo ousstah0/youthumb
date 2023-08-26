@@ -8,6 +8,16 @@ body {
 }
 
 
+/* Add left and right padding to the content */
+.content-wrapper {
+  padding-left: 150px; /* Adjust the value as needed */
+  padding-right: 150px; /* Adjust the value as needed */
+}
+
+
+
+
+
 
 
 /* Center align the content in the container */
