@@ -92,15 +92,15 @@ class MyDocument extends Document {
               justifyContent: "space-between",
               alignItems: "center",
               padding: "1rem",
-              backgroundColor: "#03a9f4",
-              color: "#fff",
+              backgroundColor: "#A9D0F5",
+              color: "#001F3F",
             }}
           >
             <h1 style={{ fontSize: "1.5rem" }}>Download YouTube Thumbnail</h1>
             <a
               href="https://sites.google.com/view/thumb-download/home"
               style={{
-                color: "#fff",
+                color: "#000000",
                 textDecoration: "none",
                 fontSize: "0.9rem",
               }}
@@ -112,8 +112,8 @@ class MyDocument extends Document {
           <footer
             style={{
               padding: "1rem",
-              backgroundColor: "#03a9f4",
-              color: "#fff",
+              backgroundColor: "#A9D0F5",
+              color: "#001F3F",
               textAlign: "center",
             }}
           >
