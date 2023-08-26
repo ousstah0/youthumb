@@ -47,7 +47,7 @@ input[type="text"] + button {
 /* Style the "Download Thumbnails" button */
 .btn-blue {
   background-color: #3498db;
-  color: white;
+  color: #333;
   font-weight: bold;
   padding: 0.5rem 1rem;
   border-radius: 4px;
