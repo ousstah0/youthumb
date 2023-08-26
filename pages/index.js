@@ -84,11 +84,11 @@ const Index = () => {
 
 
       {/* Added Content */}
-
-
-      <h1>___________________________________</h1>
+      
       
       <div className="content-wrapper"> 
+
+      
   <h1>
     YouTube Thumbnail Downloader: Save YT Video Thumbnails in High Quality
   </h1>
