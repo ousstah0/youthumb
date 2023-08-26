@@ -6,16 +6,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
 
-           {/* Google tag (gtag.js) */}
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-J1X6QZ4ZMM"></script>
-          <script>
-            {`
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-J1X6QZ4ZMM');
-            `}
-          </script>
+           
 
 
           <link
