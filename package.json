@@ -17,5 +17,8 @@
     "react-share": "^4.4.1",
     "tailwindcss": "^2.2.19"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "next-sitemap": "^4.2.2"
+  }
 }
