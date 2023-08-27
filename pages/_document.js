@@ -104,7 +104,7 @@ class MyDocument extends Document {
               textAlign: "center",
             }}
           >
-            &copy; {new Date().getFullYear()} Your Website Name. All rights reserved.
+            &copy; {new Date().getFullYear()} youtube-thumb-downloader.com. All rights reserved.
           </footer>
           <NextScript />
         </body>

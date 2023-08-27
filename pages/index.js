@@ -131,7 +131,7 @@ const Index = () => {
   </section>
 
 
-  <h2 className="text-center mt-8">WCompatibility Across Devices</h2>
+  <h2 className="text-center mt-8">Compatibility Across Devices</h2>
     <p>
     Our YouTube thumbnail downloader website is compatible with various devices, including Android phones, laptops, desktop systems, and non-iPhone devices. For iPhone users, please note that images cannot be directly saved due to iOS limitations
     </p>
@@ -158,12 +158,7 @@ const Index = () => {
 
 </div>
 
-      {/* Footer */}
-      <footer className="text-center mt-8">
-        <p className="text-gray-600">
-          Youtube-thumb-downloader.com - Copyright © 2023
-        </p>
-      </footer>
+      
     </div>
   );
 };
