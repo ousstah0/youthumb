@@ -19,5 +19,8 @@
     "tailwindcss": "^2.2.19",
     "xmlbuilder": "^15.1.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "next-sitemap": "^4.2.2"
+  }
 }
