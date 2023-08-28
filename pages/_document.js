@@ -35,38 +35,24 @@ class MyDocument extends Document {
           <script data-cfasync="false" async type="text/javascript" src="//kymnelboloman.com/g1m9OvPbWLrU9THpD/68859"></script>
 
           
-           {/* Add JSON-LD structured data */}
-          <script type="application/ld+json">
-            {`
-              {
-                "@context": "http://schema.org",
-                "@type": "WebPage",
-                "name": "Download YouTube Video Thumbnails with Our Thumbnail Downloader",
-                "description": "Your ultimate resource for downloading high-quality YouTube video thumbnails quickly and easily.",
-                "mainEntityOfPage": {
-                  "@type": "WebPage",
-                  "@id": "https://www.youtube-thumb-downloader.com"
-                },
-                "breadcrumb": {
-                  "@type": "BreadcrumbList",
-                  "itemListElement": [
-                    {
-                      "@type": "ListItem",
-                      "position": 1,
-                      "name": "Home",
-                      "item": "https://www.youtube-thumb-downloader.com"
-                    },
-                    {
-                      "@type": "ListItem",
-                      "position": 2,
-                      "name": "YouTube Thumbnail Downloader",
-                      "item": "https://www.youtube-thumb-downloader.com"
-                    }
-                  ]
-                }
+           
+          {/* JSON-LD markup for website */}
+            <script type="application/ld+json">
+            {JSON.stringify({
+              "@context": "http://schema.org",
+              "@type": "WebSite",
+              "name": "Download YouTube Thumbnail",
+              "url": "https://youtube-thumb-downloader.com",
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "youtube-thumb-downloader.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
               }
-            `}
+            })}
           </script>
+
+
+          
 
 
           
