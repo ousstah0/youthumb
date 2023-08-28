@@ -1,5 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 
+
 class MyDocument extends Document {
   render() {
     return (
@@ -36,21 +37,7 @@ class MyDocument extends Document {
 
           
            
-          {/* JSON-LD markup for website */}
-            <script type="application/ld+json">
-            {JSON.stringify({
-              "@context": "http://schema.org",
-              "@type": "WebSite",
-              "name": "Download YouTube Thumbnail",
-              "url": "https://youtube-thumb-downloader.com",
-              "potentialAction": {
-                "@type": "SearchAction",
-                "target": "youtube-thumb-downloader.com/search?q={search_term_string}",
-                "query-input": "required name=search_term_string"
-              }
-            })}
-          </script>
-
+          
 
           
 
