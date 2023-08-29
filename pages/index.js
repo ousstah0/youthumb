@@ -89,9 +89,9 @@ const Index = () => {
       <div className="content-wrapper"> 
 
       
-  <h1>
+  <h2>
     YouTube Thumbnail Downloader: Save YT Video Thumbnails in High Quality
-  </h1>
+  </h2>
   <section>
     <h2>Looking to enhance your YouTube video content with eye-catching thumbnails?</h2>
     <p>
