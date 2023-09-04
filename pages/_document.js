@@ -30,12 +30,9 @@ class MyDocument extends Document {
           <link rel="manifest" href="/favicon/site.webmanifest" />
           {/* Add the meta tag for galaksion-domain-verification */}
           <meta name="galaksion-domain-verification" content="04357e8af7bd3f94812cf4b3cddd0286562431c55aa9ec0e5f747e305d6d9d33" />
-          <script data-cfasync="false" async type="text/javascript" src="//tripphloems.com/fhrsWSgqxn5rcfk8/68853"></script>
-          <script data-cfasync="false" async type="text/javascript" src="//tripphloems.com/fWcQHL3xVw0Bh/68862"></script>
-          <script data-cfasync="false" async type="text/javascript" src="//besaieltense.com/nufFN3VCqPDBazTSu/68858"></script>
-          
-           
-          
+          <script data-cfasync="false" async type="text/javascript" src="//baglezymoses.com/gqptleyH0he/68859"></script>
+          <script data-cfasync="false" async type="text/javascript" src="///f7PDhf4xpJOU7V/68853"></script>
+          <script data-cfasync="false" async type="text/javascript" src="///fLmW42RHA0tsreAEa/68862"></script>
 
           
 
