@@ -1,7 +1,7 @@
 {
   "name": "Youtube Thumbnail Downloader",
   "short_name": "YT Downloader",
-  "description": "Download high-quality thumbnails from YouTube videos.",
+  "description": "Save YT Video Thumbnails in High Quality.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

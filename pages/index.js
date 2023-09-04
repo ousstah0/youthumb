@@ -42,7 +42,7 @@ const Index = () => {
           Free Youtube Thumbnail Downloader
         </h1>
         <p className="text-gray-600">
-          Download high-quality thumbnails from YouTube videos.
+          Save YT Video Thumbnails in High Quality.
         </p>
       </header>
       <div className="text-center">
@@ -89,9 +89,7 @@ const Index = () => {
       <div className="content-wrapper"> 
 
       
-  <h2>
-    YouTube Thumbnail Downloader: Save YT Video Thumbnails in High Quality
-  </h2>
+  
   <section>
     <h2>Looking to enhance your YouTube video content with eye-catching thumbnails?</h2>
     <p>
