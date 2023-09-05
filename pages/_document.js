@@ -51,7 +51,7 @@ class MyDocument extends Document {
               color: "#001F3F",
             }}
           >
-            <h1 style={{ fontSize: "1.5rem" }}>Download YouTube Thumbnail</h1>
+            <h2 style={{ fontSize: "1.5rem" }}>Download YouTube Thumbnail</h2>
             <a
               href="https://sites.google.com/view/thumb-download/home"
               style={{
