@@ -40,28 +40,19 @@ class MyDocument extends Document {
           
 
         </Head>
-        <body style={{ margin: 0, padding: 0, fontFamily: "Arial, sans-serif" }}>
+        <body style={{ margin: 0, padding: 10, fontFamily: "Arial, sans-serif" }}>
           <header
             style={{
               display: "flex",
               justifyContent: "space-between",
               alignItems: "center",
-              padding: "1rem",
-              backgroundColor: "#A9D0F5",
+              padding: "2rem",
+              backgroundColor: "#f7fafc",
               color: "#001F3F",
             }}
           >
             <h2 style={{ fontSize: "1.5rem" }}>Download YouTube Thumbnail</h2>
-            <a
-              href="https://sites.google.com/view/thumb-download/home"
-              style={{
-                color: "#000000",
-                textDecoration: "none",
-                fontSize: "0.9rem",
-              }}
-            >
-              Privacy Policy
-            </a>
+            
           </header>
           <Main />
           <footer
