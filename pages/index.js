@@ -75,7 +75,7 @@ const Index = () => {
       
     <header className="text-center mb-8" style={{ width : '60%'}}>
         <h1 className="text-3xl font-bold mb-2">
-          Free YouTube Thumbnail Downloader: 4K Youtube Video thumbnail grabber
+          Free YT thumbnail download: Youtube shorts thumbnail download
         </h1>
         <p className="text-gray-600">
         In the ever-evolving world of content creation, visuals play a pivotal role in capturing the attention of your audience. YouTube, being one of the largest video-sharing platforms globally, relies heavily on thumbnails to entice viewers to click and engage with your videos. If you're a content creator or marketer striving for success on YouTube, you'll understand the importance of having eye-catching thumbnails. Fortunately, we've got you covered with our Free YouTube Thumbnail Downloader, a powerful tool that lets you easily obtain high-quality thumbnails from YouTube videos.
@@ -83,14 +83,14 @@ const Index = () => {
 
         {/* SEO-Optimized Text */}
   <h2 className="text-xl font-semibold mb-4">
-  Get Youtube Thumbnail For Free 
+  Get Thumbnail Youtube free download 
   </h2>
   <p>
     Grab your favorite YouTube thumbnail in various formats, including Full 4k, UHD,HD, and more. Our YouTube video THumbnail downloader supports HD, HQ, 1080p, and 4K videos.
   </p>
 
   <h3 className="text-lg font-semibold mt-4">
-    Why Choose Our YouTube Thumbnail Downloader?
+    Why Choose Our YT thumb downloader?
   </h3>
   <p>
     Our YouTube video Thumbnails Grabber is your go-to tool for saving YouTube videos Thumbnail. There are several reasons why our YouTube Thumbnail Downloader stands out from the rest:
@@ -139,13 +139,13 @@ const Index = () => {
   </p>
 
   <h3 className="text-lg font-semibold mt-4">
-    Copyright Risks with free Thumbnail maker
+    Copyright Risks with Youtube shorts thumbnail downloader
   </h3>
   <p>
   It's essential to keep in mind that downloaded YouTube thumbnails are copyrighted by the respective video owners. When reusing these thumbnails, especially within the YouTube ecosystem, it's advisable to obtain proper permissions to avoid any legal issues.
   </p>
   <h3 className="text-lg font-semibold mt-4">
-    Is YouTube Thumbnails SEO Friendly?
+    Is Youtube shorts thumbnail download SEO Friendly?
   </h3>
   <p>
   While reusing YouTube thumbnails can be convenient, it may not always be the most SEO-friendly option. Google indexes most thumbnails on YouTube and distinguishes between unique and duplicate images. To make reused thumbnails more SEO-friendly, consider enhancing them with unique effects using tools like Photoshop.  </p>
